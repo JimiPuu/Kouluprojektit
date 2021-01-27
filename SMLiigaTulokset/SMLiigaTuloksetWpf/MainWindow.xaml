@@ -1,0 +1,74 @@
+﻿<Window x:Class="SMLiigaTuloksetWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SMLiigaTuloksetWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="881*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <ListBox Name="lstKotijoukkue" 
+                     Grid.Row="0" Grid.Column="0"
+                     Background="Azure"
+                     Height="300" Width="150" SelectionChanged="LstKotijoukkue_SelectionChanged"/>
+            <ListBox Name="lstVierasjoukkue" 
+                     Grid.Row="0" Grid.Column="5" 
+                     Background="Azure"
+                     Height="300" Width="150" SelectionChanged="LstVierasjoukkue_SelectionChanged"/>
+            <ListBox Name="lstKotipelaajat"
+                     Grid.Row="0" Grid.Column="1"
+                     Background="Azure"
+                     Height="300" Width="150" />
+            <ListBox Name="lstVieraspelaajat"
+                     Grid.Row="0" Grid.Column="4" 
+                     Background="Azure"
+                     Height="300" Width="150" />
+            <StackPanel Grid.Row="0" Grid.Column="2">
+                <Label Name="lblKotijoukkue" 
+                        Height="50" FontSize="24" FontWeight="Bold" Background="Azure"
+                       HorizontalContentAlignment="Center" />
+                <Label Name="lblKotimaalit"
+                       Height="50" FontSize="24" FontWeight="Bold" Background="Azure"
+                       HorizontalContentAlignment="Center"/>
+                <Button Name="BtnKirjaaKotiMaali" 
+                    Height="100" Background="Azure"
+                        Content="Kirjaa kotimaali" Click="BtnKirjaaKotiMaali_Click" />
+                <ListBox Name="lstKotiMaalit" Background="Azure"
+                         Height="100"/>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="3">
+                <Label Name="lblVierasjoukkue" 
+                        Height="50" FontSize="24" FontWeight="Bold" Background="Azure"
+                       HorizontalContentAlignment="Center"/>
+                <Label Name="lblVierasmaalit" 
+                       Height="50" FontSize="24" FontWeight="Bold" Background="Azure"
+                       HorizontalContentAlignment="Center" />
+                <Button Name="BtnKirjaaVierasMaali" 
+                    Height="100" Background="Azure"
+                        Content="Kirjaa vierasmaali" Click="BtnKirjaaVierasMaali_Click" />
+                <ListBox Name="lstVierasmaalit" Background="Azure"
+                         Height="100" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,72 @@
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csprojAssemblyReference.cache
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\MainWindow.g.cs
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\App.g.cs
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.cache
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.lref
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe.config
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.pdb
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\MainWindow.baml
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.g.resources
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.Properties.Resources.resources
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.GenerateResource.cache
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.exe
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.pdb
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe.config
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.pdb
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csprojAssemblyReference.cache
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\App.g.cs
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.cache
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.lref
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\MainWindow.baml
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.g.resources
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.Properties.Resources.resources
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.GenerateResource.cache
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.CoreCompileInputs.cache
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.exe
+U:\Ohjelmointi\SMLiigaTuloksetWpf\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.pdb
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe.config
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.pdb
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csprojAssemblyReference.cache
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\MainWindow.g.cs
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\App.g.cs
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.cache
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.lref
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\MainWindow.baml
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.g.resources
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.Properties.Resources.resources
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.GenerateResource.cache
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.CoreCompileInputs.cache
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.exe
+U:\Ohjelmointi\2\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.pdb
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe.config
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.pdb
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csprojAssemblyReference.cache
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\MainWindow.g.cs
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\App.g.cs
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.cache
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.lref
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\MainWindow.baml
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.g.resources
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.Properties.Resources.resources
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.GenerateResource.cache
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.exe
+C:\Users\jimip\OneDrive\Työpöytä\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.pdb
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe.config
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.exe
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\bin\Debug\SMLiigaTuloksetWpf.pdb
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csprojAssemblyReference.cache
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\MainWindow.g.cs
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\App.g.cs
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.cache
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf_MarkupCompile.lref
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\MainWindow.baml
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.g.resources
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.Properties.Resources.resources
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.csproj.GenerateResource.cache
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.exe
+C:\Users\jimip\OneDrive\Työpöytä\Koulu 1. vuosi\SMLiigaTuloksetWpf2\SMLiigaTuloksetWpf\obj\Debug\SMLiigaTuloksetWpf.pdb
