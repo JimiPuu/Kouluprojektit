@@ -1,0 +1,65 @@
+body {  
+    background: #0c0c0c;
+    color: rgb(233, 99, 10);
+  }
+
+  #etu {
+    background: #02022e;
+    color: rgb(233, 99, 10);
+  }
+  
+  .navbar {
+    opacity: 0.8;
+  }
+  
+  #home-section {
+    background: url(../KuljetuspalveluKuvat/etukuva.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    text-align: right;
+    color: black;
+    font-size: large;
+  }  
+  #home-section .dark-overlay {
+    position: absolute;
+    top: 5;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+  }
+  #home-section .home.inner {
+    padding-top: 150px;
+  } 
+  #home-section .fas,
+  #create-section .fas {
+    color: rgb(228, 95, 7);
+    background: rgb(247, 111, 0);
+    padding: 5px;
+    border-radius: 5px;
+  }
+  #explore-section .fas,
+  #share-section .fas {
+    background: #02022e;
+    color: rgb(243, 93, 7);
+    padding: 5px;
+    border-radius: 5px;
+  }
+  #explore-head-section {
+    background-color:#02022e;
+  }
+  #footer {
+    background-color:#1c1c1c;
+  }
+  #icon {
+    color: rgb(233, 99, 10);
+  }
+  #pkuva {
+    width: auto;
+    height: auto;
+    object-fit:contain;
+  }
+  .valikko{
+    max-width: max-content;
+  }

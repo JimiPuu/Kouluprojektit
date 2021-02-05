@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Hae Kuljettaja</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Kuljetuspalvelu</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Etusivu</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" class="active" href="#">Kuljettaja
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="haeKuljettaja.html">Hae Kuljettaja</a></li>
+            <li><a href="lisaaKuljettaja.html">Lisää kuljettaja</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Tuote
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="haeTuote.html">Hae Tuote</a></li>
+            <li><a href="lisaaTuote.html">Lisää Tuote</a></li>
+          </ul>
+        </li>
+        <li><a href="welcome.php">Takaisin</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+<br>
+
+<div class="container-fluid text-center">    
+  <div class="row content">
+    <div class="col-sm-2 sidenav">
+    </div>
+    <div class="col-sm-8 text-left">
+      <h2>Kuljettajan haku sen kuljettajatunnuksella:</h2>
+      <div id="kuljettajat">
+        <select id="kuljettajat-dropdown" class="btn" ></select>
+        <br>
+        <br>
+        <div class="form-group">
+          <label for="enimi">Etunimi:</label>
+          <input type="firstname" class="form-control" id="Etunimi" placeholder="Etunimi">
+        </div>
+        <div class="form-group">
+          <label for="snimi">Sukunimi:</label>
+          <input type="lastname" class="form-control" id="Sukunimi" placeholder="Sukunimi">
+        </div>
+        <div class="form-group">
+          <label for="kaupunki">Kaupunki:</label>
+          <input type="city" class="form-control" id="Kaupunki" placeholder="Kaupunki">
+        </div>
+        <div class="form-group">
+          <label for="losoite">Lähiosoite:</label>
+          <input type="address" class="form-control" id="Lahiosoite" placeholder="Lähiosoite">
+        </div>
+        <div class="form-group">
+          <label for="ponume">Postinumero:</label>
+          <input type="post" class="form-control" id="Postinumero" placeholder="Postinumero">
+        </div>
+        <div class="form-group">
+          <label for="punume">Puhelinnumero:</label>
+          <input class="form-control" id="Puhelinnumero" placeholder="Puhelinnumero">
+        </div>
+        <div class="form-group">
+          <label for="sposti">Sähköposti:</label>
+          <input type="email" class="form-control" id="Sahkoposti" placeholder="Sähköposti">
+        </div>
+    </div>
+    <input type="submit" value="Muuta kuljettajan tietoja" id="btnMuutaKuljettaja" class="btn btn-primary" data-toggle="modal" data-target="#mdlMuutaKuljettaja" />
+    <input type="submit" value="Poista kuljettaja" id="btnPoistaKuljettaja" class="btn btn-primary" data-toggle="modal" data-target="#mdlPoistaKuljettaja" />
+
+      
+  <div class="modal fade" id="mdlMuutaKuljettaja">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+        <div class="modal-header">
+          <h4 class="modal-title">Ilmoitus</h4>
+        </div>
+        
+        <div class="modal-body">
+          <input type="message" class="form-control" id="Ilmoitus">  
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Sulje</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="mdlPoistaKuljettaja">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <h4 class="modal-title">Ilmoitus</h4>
+        </div>
+
+        <div class="modal-body">
+          <input type="message" class="form-control" id="Ilmoitus2">  
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Sulje</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+    <br>
+    <script 
+      src="haekuljettaja.js">
+    </script>
+</body>
+</html>
